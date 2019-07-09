@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.5.0",
-    "@babel/runtime": "^7.4.4",
+    "@babel/runtime": "^7.5.3",
     "@polkadot/dev-react": "^0.30.0-beta.15",
     "@polkadot/ts": "^0.1.60",
     "copyfiles": "^2.1.0",
